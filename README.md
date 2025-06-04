@@ -12,7 +12,7 @@ Burpsuite直接导入jar文件，代理设置完毕后直接访问网站，插�
 
 e.g.
 
-访问https://www.baidu.com，查看提取结果，这里随意查询一条，以第7条为例
+访问`https://www.baidu.com`，查看提取结果，这里随意查询一条，以第7条为例
 <img width="1260" alt="image-20250604171314925" src="https://github.com/user-attachments/assets/e084477b-9c89-4b76-8913-70a36840ac76" />
 点击第7条查看提取结果
 <img width="800" alt="image-20250604171237913" src="https://github.com/user-attachments/assets/96e6db11-04a8-41b8-80c4-e8063bd33ef6" />
